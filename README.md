@@ -2,8 +2,8 @@ Hi, I'm @michel-mata!
 
 I do research in Cultural Evolution theory.
 
-I develop mathematical and computational models,
-using biological theory to answer social questions.
+I use biological theory to answer social questions,
+by developing mathematical and computational models.
 
 📫 s.michel-mata@princeton.edu
 
