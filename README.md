@@ -5,7 +5,7 @@ I do research in Cultural Evolution theory.
 I use biological theory to answer social questions,
 by developing mathematical and computational models.
 
-📫 s.michel-mata@princeton.edu
+📫 michelmata@collegium.ethz.ch
 
 <!---
 michel-mata/michel-mata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
